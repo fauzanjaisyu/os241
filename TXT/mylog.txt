@@ -1,3 +1,11 @@
+ZCZC W02 20 L00 General, etc.
+ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 20 L04 GitHub Pages related
+ZCZC W02 70 L09 Weekly 
+ZCZC W02 55 L88 Sport
+
 ZCZC W01 20 L00 General, etc.
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
@@ -5,6 +13,7 @@ ZCZC W01 10 L03 GitHub related
 ZCZC W01 20 L04 GitHub Pages related
 ZCZC W01 70 L09 Weekly 
 ZCZC W01 20 L88 Sport
+
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
