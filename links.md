@@ -12,5 +12,6 @@ These commands will help you list PCI devices, view information about your CPU, 
 This video explains public and private keys in everyday language. It also uses relatable analogies to simplify the difference between asymmetric and symmetric encryption.
 * [Intro to GPG Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo&pp=ygUNcnNhIGxpbnV4IGdwZw%3D%3D)
 Introduction to file encryption with GPG.
+* [Shared Memory Systems](https://youtu.be/uHtzOFwgD74?si=v2cRNFtChuQhAGFH) --- A video containing material on how Shared Memory Systems work.
 <br>
 <hr>
