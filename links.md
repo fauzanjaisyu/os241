@@ -13,5 +13,7 @@ This video explains public and private keys in everyday language. It also uses r
 * [Intro to GPG Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo&pp=ygUNcnNhIGxpbnV4IGdwZw%3D%3D)
 Introduction to file encryption with GPG.
 * [Shared Memory Systems](https://youtu.be/uHtzOFwgD74?si=v2cRNFtChuQhAGFH) --- A video containing material on how Shared Memory Systems work.
+* [forking in c](https://www.youtube.com/watch?v=cex9XrZCU14/) <br>
+Right, so this is a video explaining the whole C forking command which allows you to run programs simultaneously. Pretty cool If i do say so myself (not to mention bit confusing)
 <br>
 <hr>
