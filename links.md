@@ -16,5 +16,7 @@ Introduction to file encryption with GPG.
 * [forking in c](https://www.youtube.com/watch?v=cex9XrZCU14/) <br>
 Right, so this is a video explaining the whole C forking command which allows you to run programs simultaneously. Pretty cool If i do say so myself (not to mention bit confusing)
 * [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
+* [Kernotex Youtube LFS 11.2 playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) ---
+This playlist of videos is the one you need to refer when doing week 08 assignment. Very clearly explained and shown, just make sure you follow through all the instructions in the videos.
 <br>
 <hr>
